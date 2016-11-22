@@ -1,0 +1,1 @@
+![CQRS](./slides/img/CQRSImg.jpg)
